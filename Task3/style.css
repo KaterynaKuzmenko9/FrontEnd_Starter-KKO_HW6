@@ -1,0 +1,188 @@
+body{
+    font-family: corbel;
+    width: 1100px;
+    margin: 0 auto;
+   
+  
+}
+
+
+
+h1{
+    font-size: 64px;
+    color:#14931F;
+    text-align: center;
+}
+
+h2{
+    font-size: 48px;
+    color: #14931F;
+    text-align: center;
+}
+
+
+.main{ 
+    text-align: center;
+}
+
+.button{
+
+   list-style: none;
+   border-radius: 20px;
+   background: green;
+   font-size: 24px;
+
+}
+
+
+.button a{
+  text-decoration: none;
+  color: white;
+}
+.one{ 
+  border-radius: 40px;
+  width:300px;
+  height: 80px;
+  padding-top: 20px;
+  background:#DFDBF5;
+display: inline-block;
+justify-content: space-between;
+
+}
+.two{ 
+  border-radius: 40px;
+  width:300px;
+  height: 80px;
+  padding-top: 20px;
+  background:#DFDBF5;
+display: inline-block;
+justify-content: space-between;
+}
+
+.three{
+    border-radius: 400px;
+    margin: 20px;
+    width:300px;
+    height: 80px;
+    padding-top: 20px;
+    background:#DFDBF5;
+  display: inline-block;
+  justify-content: space-between;
+  flex-wrap: wrap;
+ 
+  
+}
+
+.four{
+  border-radius: 400px; 
+  width:300px;
+  height: 80px;
+  padding-top: 20px;
+  background:#DFDBF5;
+display: inline-block;
+justify-content: space-between;
+
+}
+
+.five{
+  border-radius: 400px;
+  margin: 20px;
+  width:300px;
+  height: 80px;
+  background:#DFDBF5;
+display: inline-block;
+justify-content: space-between;
+}
+  
+.six{
+
+    border-radius: 400px;
+    margin: 20px;
+    width:300px;
+    height: 80px;
+  
+    background:#DFDBF5;
+  display: inline-block;
+  justify-content: space-between;
+  }
+
+
+
+.bloks {
+  color: #646F75;
+  margin-block: 30px;
+
+}
+
+.bloks a{
+  color:gray;
+}
+
+
+.second{
+  font-family: corbel;
+  background:#DFDBF5;
+  width: 1100px;
+  margin: 0 auto;text-align: center;
+  
+}
+
+
+h3{
+  font-size: 48px;
+  text-align: center;
+  color:#14931F;
+  background:#DFDBF5;
+
+
+}
+
+/* Другий блок з цінами */
+
+.block1{
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border-radius: 30px;
+  display: inline-block;
+justify-content: space-between;
+}
+
+.block2{
+  height: 200px;
+  width: 300px;
+  background-color:#14931F;
+  color: white;
+  border-radius: 30px;
+  display: inline-block;
+justify-content: space-between;
+}
+
+.block3{
+ 
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border-radius: 30px;
+  display: inline-block;
+justify-content: space-between;
+}
+
+:hover.color{
+  
+  background: #14931F;
+}
+  
+
+
+footer{
+  background: #14931F;
+  color: white;
+  width: 1100px;
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+  
+ 
+
+}
